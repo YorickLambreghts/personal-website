@@ -185,12 +185,12 @@ sections:
 - block: contact
   content:
     address:
-      city: Sydney
+      city: Hobart
       country: Australia
       country_code: AU
-      postcode: "2109"
-      region: NSW
-      street: 205B Culloden Rd
+      postcode: "7005"
+      region: TAS
+      street: Churchill Ave
     # appointment_url: https://calendly.com
     # autolink: true
     # contact_links:
@@ -222,8 +222,8 @@ sections:
     # text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis
     #   ut magna et, vehicula efficitur enim.
     coordinates:
-      latitude: '-33.76927'
-      longitude: '151.1116'
+      latitude: '-42.90497'
+      longitude: '147.32497'
     title: Contact
   design:
     columns: "2"
