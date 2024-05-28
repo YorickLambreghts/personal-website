@@ -25,7 +25,7 @@ tags:
 - Birds
 - Animal personality
 title: "Nest defence behavioural reaction norms: testing life-history and parental investment theory predictions"
-# url_pdf: https://onlinelibrary.wiley.com/doi/10.1111/eth.12722
+# url_pdf: https://royalsocietypublishing.org/doi/epdf/10.1098/rsos.182180
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
