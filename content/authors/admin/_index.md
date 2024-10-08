@@ -17,8 +17,9 @@ organizations:
 role: PhD candidate in Biological Sciences
 social:
 - icon: envelope
-  icon_pack: fas
+  icon_pack: fa
   link: /#contact
+  label: Send me an email
 - display:
     header: true
   icon: twitter
@@ -26,12 +27,17 @@ social:
   label: Follow me on Twitter
   link: https://twitter.com/LambreghtsY
 - icon: orcid
-  icon_pack: fab
+  icon_pack: ai
   link:  https://orcid.org/0000-0001-5140-138X
+  label: My ORCID account
 - icon: researchgate
-  icon_pack: fab
+  icon_pack: ai
   label: Find me on ResearchGate
   link: https://www.researchgate.net/profile/Yorick-Lambreghts
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=eqmb5HEAAAAJ&hl=nl&oi=ao
+  label: Find me on Google Scholar
 # - icon: cv
 #   icon_pack: ai
 #   link: uploads/resume.pdf
